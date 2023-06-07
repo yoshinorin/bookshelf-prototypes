@@ -1,42 +1,11 @@
-# Nuxt 3 Minimal Starter
+# Bookshelf
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+> [Live](https://bookshelf.yoshinorin.net/): The current stacks are not yet related to this repository's stacks. But, I'm going to migrate new stacks. (from `Vue 2.x, Vuetiry 1.x` to `Vue3.x, Nuxt.js 3.x, Vuetify 3.x`)
 
-## Setup
+## Purpose
 
-Make sure to install the dependencies:
-
-```bash
-# yarn
-yarn install
-
-# npm
-npm install
-
-# pnpm
-pnpm install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`
-
-```bash
-npm run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+- Migrate stacks
+    - `Vue 2.x, Vuetiry 1.x` to `Vue3.x, Nuxt.js 3.x, Vuetify 3.x`
+        - Honestly, I do not want to use JS/TS stacks, but I don't have much time to try other stacks. So, I decide to use JS/TS stacks for the front-end.
+- Publish to public repository
+    - The current source code (`Vue 2.x, Vuetiry 1.x`) is private repos manages. I want to migrare to public repositories.
